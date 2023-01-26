@@ -14,13 +14,13 @@ inquirer
         },
         {
             type: 'input',
-            message: "What is the manager's name?",
-            name: 'manager'
+            message: "What is the manager's Employee ID?",
+            name: 'identification'
         },
         {
             type: 'input',
-            message: "What is the manager's name?",
-            name: 'manager'
+            message: "What is the manager's office number?",
+            name: 'office'
         },
 
     ])
